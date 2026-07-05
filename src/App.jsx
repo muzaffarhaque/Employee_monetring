@@ -30,7 +30,7 @@ function App() {
             errorElement:<NotFound/>,
             children:[
                 {
-                    path: "/nav/dashboard",
+                    path: "/",
                     element: <ProtectedRoute children={<Dashboard/>}/>
                 },
                 {

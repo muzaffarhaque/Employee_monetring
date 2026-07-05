@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import DateRangePicker from "../components/DateRangePicker";
 import { SlCalender } from "react-icons/sl";
 import { MdOutlineSpaceDashboard } from "react-icons/md";
 import { LuUserRoundX } from "react-icons/lu";
 import { CiWallet } from "react-icons/ci";
-import { NavLink, useLocation, useParams } from "react-router-dom";
+import { NavLink, useLocation, useNavigate, useParams } from "react-router-dom";
 import GaugeChart from "react-gauge-chart";
 import { AttendanceTable, CustomTable, MiniBarChart } from "../components";
 import { FcVoicePresentation } from "react-icons/fc";
@@ -117,7 +117,11 @@ export default function Dashboard() {
   const [ranges, setRanges] = useState([]);
   const params = useParams()
   console.table(params)
+  const navigate = useNavigate();
 
+  useEffect(() => {
+    navigate("/nav/dashboard");
+  }, []);
   return (
     <div className="dashboard-content-section">
       <div className="header-nave-bar">
