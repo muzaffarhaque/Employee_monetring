@@ -1,0 +1,46 @@
+.chart {
+  width: 140px;
+  height:84px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 10px 5px;
+}
+
+.chart-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bar {
+  width: 15px;
+  border-radius: 8px;
+  background: #5353d9;
+  transition: 0.3s;
+}
+
+.bar:nth-child(1) {
+  background: #c5e2f8;
+}
+
+.bar.active {
+  background: linear-gradient(
+    180deg,
+    #7a2cff 0%,
+    #5b17e8 50%,
+    #3c00d6 100%
+  );
+  box-shadow: 0 8px 18px rgba(98, 0, 255, 0.35);
+}
+
+.month {
+  margin-top: 8px;
+  font-size: 11px;
+  color: #888;
+}
+
+.active-text {
+  color: #5b17e8;
+  font-weight: 600;
+}

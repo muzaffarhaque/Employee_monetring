@@ -1,0 +1,107 @@
+/* Custom table styles */
+$table-bg: #fff;
+$table-head-bg: #f8f9fa;
+$table-border: #dee2e6;
+$table-hover-bg: #f3f6ff;
+$table-alt-bg: #fcfcfd;
+$table-text: #212529;
+$table-success: #198754;
+$table-muted: #6c757d;
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  background: var(--side-nav-bg);
+  border-radius: 10px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  border:none;
+   background: transparent;
+tr{border:none;}
+  th,
+  td {
+    padding: 12px 14px;
+    vertical-align: middle;
+    background: transparent;
+    border : none;
+    color:var(--text);
+  }
+
+  thead {
+    tr{
+      border:none;
+        th{
+            background: transparent;
+            font-weight: 600;
+            border : none;
+            border-bottom: 1px solid rgb(224, 224, 224);
+            border-top:none;
+        }
+      }
+
+}
+}
+
+.table-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: #FFF;
+  background: linear-gradient(135deg, #75acff, #ab89ea);
+  flex-shrink: 0;
+}
+
+.table-user {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.table-user-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.table-user-name {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.table-user-status {
+  font-size: 13px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.table-user-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.table-user-status-online {
+  color: $table-success;
+
+  .table-user-status-dot {
+    background: $table-success;
+  }
+}
+
+.table-user-status-offline {
+  color: $table-muted;
+
+  .table-user-status-dot {
+    background: $table-muted;
+  }
+}

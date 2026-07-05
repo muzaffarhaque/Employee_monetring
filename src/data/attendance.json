@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "employeeId": "EMP001",
+    "checkIn": "09:00 AM",
+    "checkOut": "06:00 PM",
+    "status": "Online",
+    "avatar": "JS"
+  },
+  {
+    "id": 2,
+    "name": "Emma Johnson",
+    "employeeId": "EMP002",
+    "checkIn": "09:15 AM",
+    "checkOut": "06:15 PM",
+    "status": "Offline",
+    "avatar": "EJ"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "employeeId": "EMP003",
+    "checkIn": "10:00 AM",
+    "checkOut": "07:00 PM",
+    "status": "Online",
+    "avatar": "MB"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Wilson",
+    "employeeId": "EMP004",
+    "checkIn": "08:45 AM",
+    "checkOut": "05:45 PM",
+    "status": "Online",
+    "avatar": "SW"
+  },
+  {
+    "id": 5,
+    "name": "David Miller",
+    "employeeId": "EMP005",
+    "checkIn": "09:30 AM",
+    "checkOut": "06:30 PM",
+    "status": "Offline",
+    "avatar": "DM"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Davis",
+    "employeeId": "EMP006",
+    "checkIn": "09:05 AM",
+    "checkOut": "06:05 PM",
+    "status": "Online",
+    "avatar": "OD"
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "employeeId": "EMP007",
+    "checkIn": "09:20 AM",
+    "checkOut": "06:20 PM",
+    "status": "Offline",
+    "avatar": "JA"
+  },
+  {
+    "id": 8,
+    "name": "Charlotte Thomas",
+    "employeeId": "EMP008",
+    "checkIn": "08:55 AM",
+    "checkOut": "05:55 PM",
+    "status": "Online",
+    "avatar": "CT"
+  },
+  {
+    "id": 9,
+    "name": "William Taylor",
+    "employeeId": "EMP009",
+    "checkIn": "09:40 AM",
+    "checkOut": "06:40 PM",
+    "status": "Online",
+    "avatar": "WT"
+  },
+  {
+    "id": 10,
+    "name": "Amelia Moore",
+    "employeeId": "EMP010",
+    "checkIn": "09:10 AM",
+    "checkOut": "06:10 PM",
+    "status": "Offline",
+    "avatar": "AM"
+  },
+  {
+    "id": 11,
+    "name": "Benjamin Jackson",
+    "employeeId": "EMP011",
+    "checkIn": "09:25 AM",
+    "checkOut": "06:25 PM",
+    "status": "Online",
+    "avatar": "BJ"
+  },
+  {
+    "id": 12,
+    "name": "Mia Martin",
+    "employeeId": "EMP012",
+    "checkIn": "09:00 AM",
+    "checkOut": "06:00 PM",
+    "status": "Offline",
+    "avatar": "MM"
+  },
+  {
+    "id": 13,
+    "name": "Lucas White",
+    "employeeId": "EMP013",
+    "checkIn": "09:35 AM",
+    "checkOut": "06:35 PM",
+    "status": "Online",
+    "avatar": "LW"
+  },
+  {
+    "id": 14,
+    "name": "Harper Harris",
+    "employeeId": "EMP014",
+    "checkIn": "09:05 AM",
+    "checkOut": "06:05 PM",
+    "status": "Offline",
+    "avatar": "HH"
+  },
+  {
+    "id": 15,
+    "name": "Henry Clark",
+    "employeeId": "EMP015",
+    "checkIn": "08:50 AM",
+    "checkOut": "05:50 PM",
+    "status": "Online",
+    "avatar": "HC"
+  },
+  {
+    "id": 16,
+    "name": "Evelyn Lewis",
+    "employeeId": "EMP016",
+    "checkIn": "09:30 AM",
+    "checkOut": "06:30 PM",
+    "status": "Offline",
+    "avatar": "EL"
+  },
+  {
+    "id": 17,
+    "name": "Alexander Walker",
+    "employeeId": "EMP017",
+    "checkIn": "09:00 AM",
+    "checkOut": "06:00 PM",
+    "status": "Online",
+    "avatar": "AW"
+  },
+  {
+    "id": 18,
+    "name": "Abigail Hall",
+    "employeeId": "EMP018",
+    "checkIn": "09:15 AM",
+    "checkOut": "06:15 PM",
+    "status": "Offline",
+    "avatar": "AH"
+  },
+  {
+    "id": 19,
+    "name": "Daniel Allen",
+    "employeeId": "EMP019",
+    "checkIn": "09:45 AM",
+    "checkOut": "06:45 PM",
+    "status": "Online",
+    "avatar": "DA"
+  },
+  {
+    "id": 20,
+    "name": "Emily Young",
+    "employeeId": "EMP020",
+    "checkIn": "08:55 AM",
+    "checkOut": "05:55 PM",
+    "status": "Offline",
+    "avatar": "EY"
+  },
+  {
+    "id": 21,
+    "name": "Matthew King",
+    "employeeId": "EMP021",
+    "checkIn": "09:10 AM",
+    "checkOut": "06:10 PM",
+    "status": "Online",
+    "avatar": "MK"
+  },
+  {
+    "id": 22,
+    "name": "Scarlett Wright",
+    "employeeId": "EMP022",
+    "checkIn": "09:20 AM",
+    "checkOut": "06:20 PM",
+    "status": "Offline",
+    "avatar": "SW"
+  },
+  {
+    "id": 23,
+    "name": "Joseph Scott",
+    "employeeId": "EMP023",
+    "checkIn": "09:00 AM",
+    "checkOut": "06:00 PM",
+    "status": "Online",
+    "avatar": "JS"
+  },
+  {
+    "id": 24,
+    "name": "Grace Green",
+    "employeeId": "EMP024",
+    "checkIn": "09:30 AM",
+    "checkOut": "06:30 PM",
+    "status": "Offline",
+    "avatar": "GG"
+  },
+  {
+    "id": 25,
+    "name": "Samuel Adams",
+    "employeeId": "EMP025",
+    "checkIn": "09:15 AM",
+    "checkOut": "06:15 PM",
+    "status": "Online",
+    "avatar": "SA"
+  },
+  {
+    "id": 26,
+    "name": "Chloe Baker",
+    "employeeId": "EMP026",
+    "checkIn": "08:45 AM",
+    "checkOut": "05:45 PM",
+    "status": "Offline",
+    "avatar": "CB"
+  },
+  {
+    "id": 27,
+    "name": "Andrew Nelson",
+    "employeeId": "EMP027",
+    "checkIn": "09:25 AM",
+    "checkOut": "06:25 PM",
+    "status": "Online",
+    "avatar": "AN"
+  },
+  {
+    "id": 28,
+    "name": "Lily Carter",
+    "employeeId": "EMP028",
+    "checkIn": "09:05 AM",
+    "checkOut": "06:05 PM",
+    "status": "Offline",
+    "avatar": "LC"
+  },
+  {
+    "id": 29,
+    "name": "Christopher Mitchell",
+    "employeeId": "EMP029",
+    "checkIn": "08:50 AM",
+    "checkOut": "05:50 PM",
+    "status": "Offline",
+    "avatar": "CM"
+  },
+  {
+    "id": 30,
+    "name": "Ella Perez",
+    "employeeId": "EMP030",
+    "checkIn": "09:30 AM",
+    "checkOut": "06:30 PM",
+    "status": "Online",
+    "avatar": "EP"
+  },
+  {
+    "id": 31,
+    "name": "Nathan Cooper",
+    "employeeId": "EMP031",
+    "checkIn": "09:00 AM",
+    "checkOut": "06:00 PM",
+    "status": "Online",
+    "avatar": "NC"
+  },
+  {
+    "id": 32,
+    "name": "Victoria Reed",
+    "employeeId": "EMP032",
+    "checkIn": "09:20 AM",
+    "checkOut": "06:20 PM",
+    "status": "Offline",
+    "avatar": "VR"
+  },
+  {
+    "id": 33,
+    "name": "Jack Ward",
+    "employeeId": "EMP033",
+    "checkIn": "09:10 AM",
+    "checkOut": "06:10 PM",
+    "status": "Online",
+    "avatar": "JW"
+  },
+  {
+    "id": 34,
+    "name": "Hannah Brooks",
+    "employeeId": "EMP034",
+    "checkIn": "08:55 AM",
+    "checkOut": "05:55 PM",
+    "status": "Offline",
+    "avatar": "HB"
+  },
+  {
+    "id": 35,
+    "name": "Ryan Cox",
+    "employeeId": "EMP035",
+    "checkIn": "09:35 AM",
+    "checkOut": "06:35 PM",
+    "status": "Online",
+    "avatar": "RC"
+  },
+  {
+    "id": 36,
+    "name": "Zoe Richardson",
+    "employeeId": "EMP036",
+    "checkIn": "09:00 AM",
+    "checkOut": "06:00 PM",
+    "status": "Offline",
+    "avatar": "ZR"
+  },
+  {
+    "id": 37,
+    "name": "Gabriel Price",
+    "employeeId": "EMP037",
+    "checkIn": "09:15 AM",
+    "checkOut": "06:15 PM",
+    "status": "Online",
+    "avatar": "GP"
+  },
+  {
+    "id": 38,
+    "name": "Sofia Bell",
+    "employeeId": "EMP038",
+    "checkIn": "08:50 AM",
+    "checkOut": "05:50 PM",
+    "status": "Offline",
+    "avatar": "SB"
+  },
+  {
+    "id": 39,
+    "name": "Isaac Murphy",
+    "employeeId": "EMP039",
+    "checkIn": "09:40 AM",
+    "checkOut": "06:40 PM",
+    "status": "Online",
+    "avatar": "IM"
+  },
+  {
+    "id": 40,
+    "name": "Aria Foster",
+    "employeeId": "EMP040",
+    "checkIn": "09:05 AM",
+    "checkOut": "06:05 PM",
+    "status": "Offline",
+    "avatar": "AF"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-05",
+    "title": "Monthly Update 1/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 2,
+    "date": "2024-02-05",
+    "title": "Monthly Update 2/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 3,
+    "date": "2024-03-05",
+    "title": "Monthly Update 3/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 4,
+    "date": "2024-04-05",
+    "title": "Monthly Update 4/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 5,
+    "date": "2024-05-05",
+    "title": "Monthly Update 5/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 6,
+    "date": "2024-06-05",
+    "title": "Monthly Update 6/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 7,
+    "date": "2024-07-05",
+    "title": "Monthly Update 7/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 8,
+    "date": "2024-08-05",
+    "title": "Monthly Update 8/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 9,
+    "date": "2024-09-05",
+    "title": "Monthly Update 9/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 10,
+    "date": "2024-10-05",
+    "title": "Monthly Update 10/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 11,
+    "date": "2024-11-05",
+    "title": "Monthly Update 11/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 12,
+    "date": "2024-12-05",
+    "title": "Monthly Update 12/2024",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 13,
+    "date": "2025-01-05",
+    "title": "Monthly Update 1/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 14,
+    "date": "2025-02-05",
+    "title": "Monthly Update 2/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 15,
+    "date": "2025-03-05",
+    "title": "Monthly Update 3/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 16,
+    "date": "2025-04-05",
+    "title": "Monthly Update 4/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 17,
+    "date": "2025-05-05",
+    "title": "Monthly Update 5/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 18,
+    "date": "2025-06-05",
+    "title": "Monthly Update 6/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 19,
+    "date": "2025-07-05",
+    "title": "Monthly Update 7/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 20,
+    "date": "2025-08-05",
+    "title": "Monthly Update 8/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 21,
+    "date": "2025-09-05",
+    "title": "Monthly Update 9/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 22,
+    "date": "2025-10-05",
+    "title": "Monthly Update 10/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 23,
+    "date": "2025-11-05",
+    "title": "Monthly Update 11/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 24,
+    "date": "2025-12-05",
+    "title": "Monthly Update 12/2025",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 25,
+    "date": "2026-01-05",
+    "title": "Monthly Update 1/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 26,
+    "date": "2026-02-05",
+    "title": "Monthly Update 2/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 27,
+    "date": "2026-03-05",
+    "title": "Monthly Update 3/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 28,
+    "date": "2026-04-05",
+    "title": "Monthly Update 4/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 29,
+    "date": "2026-05-05",
+    "title": "Monthly Update 5/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 30,
+    "date": "2026-06-05",
+    "title": "Monthly Update 6/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 31,
+    "date": "2026-07-05",
+    "title": "Monthly Update 7/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 32,
+    "date": "2026-08-05",
+    "title": "Monthly Update 8/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 33,
+    "date": "2026-09-05",
+    "title": "Monthly Update 9/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 34,
+    "date": "2026-10-05",
+    "title": "Monthly Update 10/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 35,
+    "date": "2026-11-05",
+    "title": "Monthly Update 11/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  },
+  {
+    "id": 36,
+    "date": "2026-12-05",
+    "title": "Monthly Update 12/2026",
+    "description": "Company-wide updates, events, policy reminders, training sessions and celebrations."
+  }
+]
